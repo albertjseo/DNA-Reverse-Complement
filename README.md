@@ -1,4 +1,4 @@
-# DNA-Reverse-Compliment
+# DNA-Reverse-Complement
 
 In this project, I import my previous module (DNA_Nucleotide_Counter) and add to it, hoping to generate a reverse complement sequence to the user's unique DNA sequence input.
 
